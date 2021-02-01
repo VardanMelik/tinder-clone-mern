@@ -13,3 +13,6 @@ Used packages:
 React Tinder Card
 npm i react-tinder-card
 https://www.npmjs.com/package/react-tinder-card
+
+Build version:
+ https://tinder-clone-9d2d5.web.app
