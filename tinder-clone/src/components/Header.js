@@ -14,11 +14,11 @@ function Header() {
                 <PersonIcon className="header__icon"/>
             </IconButton>
             <Link to="/">
-                <img 
-                    className="header__logo"
-                    src={TinderLogo}
-                    alt=""
-                />
+                    <img 
+                        className="header__logo"
+                        src={TinderLogo}
+                        alt=""
+                    />
             </Link>
             <IconButton>
                 <QuestionAnswerIcon className="header__icon"/>

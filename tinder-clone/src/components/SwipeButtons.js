@@ -20,7 +20,7 @@ function SwipeButtons() {
             </IconButton>
 
             <IconButton className="swipeButtons__star">
-                <StarsIcon font-Size="large"/>
+                <StarsIcon fontSize="large"/>
             </IconButton>
 
             <IconButton className="swipeButtons__right">
